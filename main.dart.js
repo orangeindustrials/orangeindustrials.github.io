@@ -60885,7 +60885,7 @@ $0(){A.jV(this.a,"/",t.X)},
 $S:0}
 A.AJ.prototype={
 J(a){var s=null,r=t.p
-return new A.bn(B.zo,A.eH(s,A.dx(A.a([A.fJ(A.a([A.ip("logo_pic.png",s,s,178),A.fJ(A.a([A.fO(B.en,new A.Q7(a),s),A.fO(B.em,new A.Q8(a),s)],r),B.lF,B.a4,B.E,s,s,B.D)],r),B.J,B.dS,B.E,s,s,B.D),B.Hm,B.M_],r),B.J,B.dS,B.E,s,s,B.D),B.n,B.t,s,s,s,250,s,B.zr,s,s,s),s)}}
+return new A.bn(B.zo,A.eH(s,A.dx(A.a([A.fJ(A.a([A.ip("assets/logo_pic.png",s,s,178),A.fJ(A.a([A.fO(B.en,new A.Q7(a),s),A.fO(B.em,new A.Q8(a),s)],r),B.lF,B.a4,B.E,s,s,B.D)],r),B.J,B.dS,B.E,s,s,B.D),B.Hm,B.M_],r),B.J,B.dS,B.E,s,s,B.D),B.n,B.t,s,s,s,250,s,B.zr,s,s,s),s)}}
 A.Q7.prototype={
 $0(){A.jV(this.a,"/",t.X)},
 $S:0}
