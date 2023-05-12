@@ -60770,7 +60770,7 @@ $S:13}
 A.Xx.prototype={}
 A.Dg.prototype={
 J(a){var s=A.agk(null,B.i,B.EK,B.i,null)
-return new A.tC(A.aO(["/",new A.Ww(),"/contact_us",new A.Wx(),"/Yash_Shah",new A.Wy()],t.N,t.hw),"/",new A.Wz(),"Orange Industrials",s,null)}}
+return new A.tC(A.aO(["/",new A.Ww(),"/contact_us",new A.Wx(),"/Yash_Shah",new A.Wy()],t.N,t.hw),"/Yash_Shah",new A.Wz(),"Orange Industrials",s,null)}}
 A.Wz.prototype={
 $2(a,b){var s=null
 b.toString
@@ -60813,7 +60813,7 @@ A.PV.prototype={
 $0(){A.iX("mailto:operations@orangeindustrilas.com")},
 $S:0}
 A.PW.prototype={
-$0(){B.kf.ye(window,"assets/Shah_Yash.vcf","_blank")},
+$0(){B.kf.ye(window,"/assets/assets/Shah_Yash.vcf","_blank")},
 $S:0}
 A.PX.prototype={
 $0(){A.iX("https://wa.me/919016467633")},
@@ -60844,13 +60844,13 @@ J(a){var s,r=null,q=a.M(t.w).f.d===B.V?B.t:B.i,p=t.p
 p=A.ac1(A.a([A.mg(B.U,A.a([A.eH(r,A.ip("assets/logo_pic.png",r,280,1/0),B.n,B.i,r,r,r,r,r,r,r,r,r),A.Eg(r,A.ab3(B.cg,B.vR,r,72),r,r,r,r,208,r)],p),B.n,B.bv),this.XA()],p),!0,!0,!0)
 s=!0
 s=s?B.kC:r
-return A.abS(q,new A.CS(p,B.aA,B.ba,!1,r,r,s,r,!1,r,0,r,2,B.ay,B.ul,r,B.a2,r),r,new A.lf(B.A2,new A.Y_(),B.ej,!0,B.kl,B.M6,r))},
+return A.abS(q,new A.CS(p,B.aA,B.ba,!1,r,r,s,r,!1,r,0,r,2,B.ay,B.ul,r,B.a2,r),r,new A.lf(B.A2,new A.Y_(),B.ej,!0,B.kl,B.M5,r))},
 XA(){var s=null,r=t.p
-return A.eH(s,A.dx(A.a([B.M7,B.LW,new A.bn(B.zw,A.fJ(A.a([A.nY(!1,!0,B.xu,s,!0,s,s,s,s,s,s,s,s,s,new A.XW(),s,s,s,s),A.nY(!1,!0,B.xs,s,!0,s,s,s,s,s,s,s,s,s,new A.XX(),s,s,s,s),A.nY(!1,!0,B.xt,s,!0,s,s,s,s,s,s,s,s,s,new A.XY(),s,s,s,s),A.nY(!1,!0,A.ab3(B.rr,s,A.ip("assets/whatsapp.png",s,s,s),36),s,!0,s,s,s,s,s,s,s,s,s,new A.XZ(),s,s,s,s)],r),B.J,B.a5,B.E,s,s,B.D),s),A.ab2(A.dx(B.BC,B.be,B.a4,B.E,s,s,B.D),s),A.ab2(A.dx(B.Cj,B.be,B.a4,B.E,s,s,B.D),s)],r),B.bF,B.E7,B.E,s,s,B.D),B.n,s,s,s,s,s,s,B.zx,s,s,s)}}
+return A.eH(s,A.dx(A.a([B.M6,B.M7,new A.bn(B.zw,A.fJ(A.a([A.nY(!1,!0,B.xu,s,!0,s,s,s,s,s,s,s,s,s,new A.XW(),s,s,s,s),A.nY(!1,!0,B.xs,s,!0,s,s,s,s,s,s,s,s,s,new A.XX(),s,s,s,s),A.nY(!1,!0,B.xt,s,!0,s,s,s,s,s,s,s,s,s,new A.XY(),s,s,s,s),A.nY(!1,!0,A.ab3(B.rr,s,A.ip("assets/whatsapp.png",s,s,s),36),s,!0,s,s,s,s,s,s,s,s,s,new A.XZ(),s,s,s,s)],r),B.J,B.a5,B.E,s,s,B.D),s),A.ab2(A.dx(B.BC,B.be,B.a4,B.E,s,s,B.D),s),A.ab2(A.dx(B.Cj,B.be,B.a4,B.E,s,s,B.D),s)],r),B.bF,B.E7,B.E,s,s,B.D),B.n,s,s,s,s,s,s,B.zx,s,s,s)}}
 A.Y_.prototype={
 $0(){var s=0,r=A.a_(t.H)
 var $async$$0=A.a0(function(a,b){if(a===1)return A.X(b,r)
-while(true)switch(s){case 0:B.kf.ye(window,"assets/Shah_Yash.vcf","_blank")
+while(true)switch(s){case 0:B.kf.ye(window,"/assets/assets/Shah_Yash.vcf","_blank")
 return A.Y(null,r)}})
 return A.Z($async$$0,r)},
 $S:24}
@@ -60885,7 +60885,7 @@ $0(){A.jV(this.a,"/",t.X)},
 $S:0}
 A.AJ.prototype={
 J(a){var s=null,r=t.p
-return new A.bn(B.zo,A.eH(s,A.dx(A.a([A.fJ(A.a([A.ip("assets/logo_pic.png",s,s,178),A.fJ(A.a([A.fO(B.en,new A.Q7(a),s),A.fO(B.em,new A.Q8(a),s)],r),B.lF,B.a4,B.E,s,s,B.D)],r),B.J,B.dS,B.E,s,s,B.D),B.Hm,B.M_],r),B.J,B.dS,B.E,s,s,B.D),B.n,B.t,s,s,s,250,s,B.zr,s,s,s),s)}}
+return new A.bn(B.zo,A.eH(s,A.dx(A.a([A.fJ(A.a([A.ip("assets/logo_pic.png",s,s,178),A.fJ(A.a([A.fO(B.en,new A.Q7(a),s),A.fO(B.em,new A.Q8(a),s)],r),B.lF,B.a4,B.E,s,s,B.D)],r),B.J,B.dS,B.E,s,s,B.D),B.Hm,B.LZ],r),B.J,B.dS,B.E,s,s,B.D),B.n,B.t,s,s,s,250,s,B.zr,s,s,s),s)}}
 A.Q7.prototype={
 $0(){A.jV(this.a,"/",t.X)},
 $S:0}
@@ -64185,12 +64185,12 @@ B.uj=new A.v2(1,"page")
 B.jT=new A.f1(B.q,B.uj)
 B.AJ=A.a(s([B.wf,B.jT]),A.a2("w<aG>"))
 B.d6=new A.q(!0,null,null,null,null,null,17,B.aB,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M3=new A.bs("Large Format Digital Printers",null,B.d6,null,null,null,null)
+B.M2=new A.bs("Large Format Digital Printers",null,B.d6,null,null,null,null)
 B.ck=new A.aP(17,17,17,17)
 B.d5=new A.q(!0,null,null,null,null,null,17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M4=new A.bs("InkJet printers with advanced Precision-Core Technology, that can print high resolution designs.",null,B.d5,null,null,5,null)
-B.Fl=new A.bn(B.ck,B.M4,null)
-B.AK=A.a(s([B.M3,B.Fl]),t.p)
+B.M3=new A.bs("InkJet printers with advanced Precision-Core Technology, that can print high resolution designs.",null,B.d5,null,null,5,null)
+B.Fl=new A.bn(B.ck,B.M3,null)
+B.AK=A.a(s([B.M2,B.Fl]),t.p)
 B.cG=new A.e9(0,"controlModifier")
 B.cH=new A.e9(1,"shiftModifier")
 B.cI=new A.e9(2,"altModifier")
@@ -64210,16 +64210,16 @@ B.lV=new A.aP(11,0,11,0)
 B.LU=new A.bs("International Office",null,B.d6,null,null,null,null)
 B.Fj=new A.bn(B.lV,B.LU,null)
 B.lW=new A.aP(11,11,11,11)
-B.M0=new A.bs("333, Gauraj Gally, M. J. Market,\nKalbadevi Road, Marine Lines,\nMumbai - 400 002.",null,B.d5,null,null,5,null)
-B.Fr=new A.bn(B.lW,B.M0,null)
+B.M_=new A.bs("333, Gauraj Gally, M. J. Market,\nKalbadevi Road, Marine Lines,\nMumbai - 400 002.",null,B.d5,null,null,5,null)
+B.Fr=new A.bn(B.lW,B.M_,null)
 B.Bj=A.a(s([B.Fj,B.Fr]),t.p)
 B.Bo=A.a(s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0]),t.c)
 B.vQ=new A.n6(0,"polite")
 B.Bp=A.a(s([B.vQ,B.kE]),A.a2("w<n6>"))
 B.dF=A.a(s([0,0,65490,45055,65535,34815,65534,18431]),t.t)
 B.A3=new A.eo(B.m6,null,null)
-B.LY=new A.bs(" Email",null,null,null,null,null,null)
-B.Br=A.a(s([B.A3,B.LY]),t.p)
+B.LX=new A.bs(" Email",null,null,null,null,null,null)
+B.Br=A.a(s([B.A3,B.LX]),t.p)
 B.kg=new A.ce(0,"DoubleQuote")
 B.c4=new A.ce(1,"SingleQuote")
 B.a8=new A.ce(2,"HebrewLetter")
@@ -64242,8 +64242,8 @@ B.vr=new A.ce(18,"Unknown")
 B.Bs=A.a(s([B.kg,B.c4,B.a8,B.es,B.et,B.kk,B.d9,B.Nj,B.da,B.db,B.au,B.kh,B.ki,B.d7,B.aY,B.er,B.d8,B.kj,B.vr]),A.a2("w<ce>"))
 B.zU=new A.ep(57740,"MaterialIcons",null,!1)
 B.A1=new A.eo(B.zU,null,null)
-B.LX=new A.bs(" Contact Card",null,null,null,null,null,null)
-B.Bu=A.a(s([B.A1,B.LX]),t.p)
+B.LW=new A.bs(" Contact Card",null,null,null,null,null,null)
+B.Bu=A.a(s([B.A1,B.LW]),t.p)
 B.mh=A.a(s([0,0,26624,1023,65534,2047,65534,2047]),t.t)
 B.CA=new A.jQ("en","US")
 B.mi=A.a(s([B.CA]),t.as)
@@ -64254,8 +64254,8 @@ B.dm=new A.aP(4.235294117647059,8.470588235294118,4.235294117647059,8.4705882352
 B.vc=new A.q(!0,null,null,null,null,null,16,B.aB,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.LV=new A.bs("International Office",null,B.vc,null,null,null,null)
 B.Fn=new A.bn(B.dm,B.LV,null)
-B.M1=new A.bs("333, Gauraj Gally, M. J. Market,\nKalbadevi Road,\nMumbai - 400 002.",null,null,null,null,null,null)
-B.Fi=new A.bn(B.dm,B.M1,null)
+B.M0=new A.bs("333, Gauraj Gally, M. J. Market,\nKalbadevi Road,\nMumbai - 400 002.",null,null,null,null,null,null)
+B.Fi=new A.bn(B.dm,B.M0,null)
 B.BC=A.a(s([B.Fn,B.Fi]),t.p)
 B.F=new A.p6(0,"upstream")
 B.v=new A.p6(1,"downstream")
@@ -64294,8 +64294,8 @@ B.FU=new A.k8(0,"android")
 B.FV=new A.k8(1,"fuchsia")
 B.C6=A.a(s([B.FW,B.FU,B.FV]),A.a2("w<k8>"))
 B.LR=new A.bs("100% Nomex Endless Blankets/Felts",null,B.d6,null,null,null,null)
-B.M2=new A.bs("Pure Nomex Blankets/Felts for Transfer Printing at high temperatures for perfectly smooth transfer of sublimation ink.",null,B.d5,null,null,5,null)
-B.Fm=new A.bn(B.ck,B.M2,null)
+B.M1=new A.bs("Pure Nomex Blankets/Felts for Transfer Printing at high temperatures for perfectly smooth transfer of sublimation ink.",null,B.d5,null,null,5,null)
+B.Fm=new A.bn(B.ck,B.M1,null)
 B.C7=A.a(s([B.LR,B.Fm]),t.p)
 B.dI=A.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.vs=new A.mA(0,"topLeft")
@@ -65303,13 +65303,13 @@ B.Fc=new A.u6(0,"portrait")
 B.rG=new A.u6(1,"landscape")
 B.Fd=new A.u7(null)
 B.KC=new A.q(!0,null,null,null,null,null,27,B.aB,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.LZ=new A.bs("It would be our pleasure to assist you.",null,B.KC,B.b8,null,null,null)
-B.Ff=new A.bn(B.lU,B.LZ,null)
+B.LY=new A.bs("It would be our pleasure to assist you.",null,B.KC,B.b8,null,null,null)
+B.Ff=new A.bn(B.lU,B.LY,null)
 B.vd=new A.q(!0,null,null,null,null,null,34,B.ar,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.LK=new A.bs("CONTACT US",null,B.vd,null,null,null,null)
 B.Fg=new A.bn(B.ck,B.LK,null)
-B.M5=new A.bs("PRODUCTS",null,B.vd,B.b8,null,null,null)
-B.Fo=new A.bn(B.ck,B.M5,null)
+B.M4=new A.bs("PRODUCTS",null,B.vd,B.b8,null,null,null)
+B.Fo=new A.bn(B.ck,B.M4,null)
 B.aq=new A.uc(0,"fill")
 B.N=new A.uc(1,"stroke")
 B.Fs=new A.jZ(1/0)
@@ -65852,14 +65852,14 @@ B.Ko=new A.q(!0,B.i,null,null,null,null,27,null,null,null,null,null,null,null,nu
 B.vf=new A.bs("Menu",null,B.Ko,null,null,null,null)
 B.J7=new A.q(!0,B.i,null,null,null,null,23,B.aB,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.LS=new A.bs("Orange Industrials",null,B.J7,B.ek,null,null,null)
-B.LW=new A.bs("Founder, Orange Industrials",null,null,B.b8,null,null,null)
-B.M_=new A.bs("COPYRIGHT \xa9 2023 ORANGE INDUSTRIALS - ALL RIGHTS RESERVED.",null,null,B.b8,null,null,null)
+B.LZ=new A.bs("COPYRIGHT \xa9 2023 ORANGE INDUSTRIALS - ALL RIGHTS RESERVED.",null,null,B.b8,null,null,null)
 B.vb=new A.q(!0,B.i,null,null,null,null,17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.em=new A.bs("Contact Us",null,B.vb,null,null,null,null)
 B.en=new A.bs("Home",null,B.vb,null,null,null,null)
-B.M6=new A.bs("Add Contact",null,null,null,null,null,null)
+B.M5=new A.bs("Add Contact",null,null,null,null,null,null)
 B.JW=new A.q(!0,null,null,null,null,null,20.571428571428573,B.aB,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M7=new A.bs("Yash Shah",null,B.JW,B.b8,null,null,null)
+B.M6=new A.bs("Yash Shah",null,B.JW,B.b8,null,null,null)
+B.M7=new A.bs("CEO, Orange Industrials",null,null,B.b8,null,null,null)
 B.OE=new A.Gr(0,"system")
 B.M9=new A.vT(null)
 B.eo=new A.vU(0,"clamp")
